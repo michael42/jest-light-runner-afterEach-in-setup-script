@@ -1,3 +1,5 @@
+console.log("setup-after-env")
+
 beforeAll(() => {
     console.log("setup beforeAll")
 })
